@@ -11,5 +11,8 @@
 7. Click the Install tab.
 8. Type in "atom-live server" in the search bar wihtout the quotes, then click packages, then click install.
 9. Click File --> Open Folder --> Locate path to your extracted folder you downloaded from git.
-10. Click Packages --> atom-live server --> Start server.
-11. A tab to your default browser will open with the application running in it.
+10. Click inside of the folder "JavaScript---Analog-Clock-master" which will contain another folder with the 
+    same name (JavaScript---Analog-Clock-master).
+11. Click on that folder once then click Open.
+12. Click Packages --> atom-live server --> Start server.
+13. A tab to your default browser will open with the application running in it.
