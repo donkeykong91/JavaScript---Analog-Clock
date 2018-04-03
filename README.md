@@ -9,7 +9,7 @@
 5. Click Packages on the top bar.
 6. Click Settings View --> Open.
 7. Click the Install tab.
-8. Type in "atom-live server" in the search bar wihtout the quotes, then click packages, then click install.
+8. Type in "atom-live server" in the search bar without the quotes, then click packages, then click install.
 9. Click File --> Open Folder --> Locate path to your extracted folder you downloaded from git.
 10. Click inside of the folder "JavaScript---Analog-Clock-master" which will contain another folder with the 
     same name (JavaScript---Analog-Clock-master).
